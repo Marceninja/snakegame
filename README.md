@@ -1,2 +1,10 @@
-# snakegame
-Snake game created with JS
+# Snake game
+
+https://snake-game-js-michal.netlify.app/
+## Rules
+
+- You have only 1 live
+- Every 5 apples eated:
+  - speed will be increased by 25%
+  - bomb will appear
+  - bomb will change its position faster
