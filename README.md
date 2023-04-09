@@ -1,6 +1,6 @@
 # Snake game
 
-https://snake-game-js-michal.netlify.app/
+https://best-ever-snake-game.netlify.app/
 ## Rules
 
 - You have only 1 live
